@@ -1,18 +1,5 @@
 # PC-Tuning
 
-[![Discord](https://discordapp.com/api/guilds/994887453599076422/widget.png?style=shield)](https://discord.com/invite/yrAnChXXZw)
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amitxv)
-
-## Rationale
-
-Windows is notorious for its ever-growing bloatware, third-party telemetry, excessive context switching, interrupts and I/O. This repository was created in hope of standardizing systems for latency-sensitive tasks and minimizing unwanted outgoing traffic. Note that the OS-related sections aren't indented to be followed on existing Windows installations. On the contrary, the mentioned sections will guide you to customize an official Windows ISO using DISM then reinstall Windows which is necessary to eliminate apparent inconsistencies between systems. Users are expected to follow the guidance in the order listed below, starting with [Physical Setup](#1-physical-setup) through to [Post-Install Instructions](#3-post-install-instructions).
-
-## Staying Informed
-
-The contents and information included in this repository will inevitably change over time. To stay up to date, it is recommended to review what has changed once in a while. At the time of reviewing, take a note of the 7 digit SHA code in the [latest commit](https://github.com/amitxv/PC-Tuning/commit/main) (e.g. ``2428150``) then use the URL below as an example to compare what has changed since the noted commit.
-
-<https://github.com/amitxv/PC-Tuning/compare/2428150..main>
 
 ## Benchmarking
 
